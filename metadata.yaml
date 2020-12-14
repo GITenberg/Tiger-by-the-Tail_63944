@@ -1,0 +1,42 @@
+_repo: Tiger-by-the-Tail_63944
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Vestal, Herman B.
+    aliases:
+    - Vestal, Herman Beeson
+    - Vestal, H. B. (Herman B.)
+    birthdate: 1916
+    deathdate: 2007
+    gutenberg_agent_id: '33400'
+    url: http://www.gutenberg.org/2009/agents/33400
+creator:
+  author:
+    agent_name: Anderson, Poul
+    alias: Anderson, Poul William
+    birthdate: 1926
+    deathdate: 2001
+    gutenberg_agent_id: '25203'
+    url: http://www.gutenberg.org/2009/agents/25203
+    wikipedia: http://en.wikipedia.org/wiki/Poul_Anderson
+description: ''
+gutenberg_issued: '2020-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Flandry, Dominic (Fictitious character) -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Abduction -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- GITenberg
+title: Tiger by the Tail
+url: http://www.gutenberg.org/ebooks/63944
